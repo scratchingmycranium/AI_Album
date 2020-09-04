@@ -2,10 +2,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Live site: https://d10mck35okytrm.cloudfront.net/
 
-## Created by:
+### Created by:
 Simcha Coleman
 
-## Missing /aws-exports.json for security:
+### Missing /aws-exports.json for security:
 Contents of aws-exports.json:
 
 ```json
