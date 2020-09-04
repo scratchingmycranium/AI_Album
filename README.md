@@ -3,6 +3,13 @@
 ### Created by:
 Simcha Coleman
 
+### Architecture Diagram:
+![alt text](https://github.com/scratchingmycranium/AI_Album/blob/master/AiPhotoAlbumFlow-1.png "ARchitecture Diagram")
+
+### Walkthrough:
+![alt text](https://github.com/scratchingmycranium/AI_Album/blob/master/ai_album.gif "Walkthrough")
+
+
 ### Missing /aws-exports.json for security:
 aws-exports.json:
 
@@ -21,11 +28,5 @@ aws-exports.json:
  }
 
 ```
-
-### Architecture Diagram:
-![alt text](https://github.com/scratchingmycranium/AI_Album/blob/master/AiPhotoAlbumFlow-1.png "ARchitecture Diagram")
-
-### Walkthrough:
-![alt text](https://github.com/scratchingmycranium/AI_Album/blob/master/ai_album.gif "Walkthrough")
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
