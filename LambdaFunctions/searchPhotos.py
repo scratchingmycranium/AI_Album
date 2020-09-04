@@ -7,7 +7,7 @@ from datetime import datetime
 import requests
 
 s3 = boto3.resource('s3')
-bucket = s3.Bucket('b2-hw3')
+bucket = s3.Bucket('***')
 
 
 def searchIntent(event):
