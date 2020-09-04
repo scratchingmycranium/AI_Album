@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Live site: https://d10mck35okytrm.cloudfront.net/
 
-## This is an AI Photo Album Created by:
+## Created by:
 Simcha Coleman
 
 ## Missing /aws-exports.json for security:
