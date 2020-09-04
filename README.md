@@ -23,5 +23,6 @@ aws-exports.json:
 ```
 
 ### Architecture Diagram
+![alt text](https://github.com/scratchingmycranium/AI_Album/blob/master/AiPhotoAlbumFlow-1.png "Logo Title Text 1")
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
