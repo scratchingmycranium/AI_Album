@@ -5,8 +5,7 @@ Simcha Coleman
 
 ### Architecture Diagram:
 ![alt text](https://github.com/scratchingmycranium/AI_Album/blob/master/AiPhotoAlbumFlow-1.png "ARchitecture Diagram")
-
-The application also uses CloudFront to serve the Frontend
+The application also uses CloudFront to serve the Frontend.
 
 ### Walkthrough:
 ![alt text](https://github.com/scratchingmycranium/AI_Album/blob/master/ai_album.gif "Walkthrough")
