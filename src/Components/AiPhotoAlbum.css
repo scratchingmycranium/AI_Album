@@ -1,0 +1,48 @@
+.container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+    width: auto;
+    margin: 10px;
+    padding: 10px;
+}
+a[title="Preview file"] {
+    display: none
+}
+.gallery{
+    background-color: rgba(219, 219, 219, 0.376);
+    display: flex;
+    padding: 20px;
+    overflow: auto;
+    width: 90%;
+    height: 250px;
+    margin: 5%;
+    border-radius: 20px;
+    border-color: rgba(0, 110, 253, 0.459);
+    border-width: 1px;
+    border-style: solid;
+}
+.photoCard{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 15px rgba(90, 90, 90, 0.397);
+
+}
+.photo{
+    width: 180px;
+    height: 180px;
+    border-radius: 5px;
+}
+.search-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px
+}
+.title {
+    font-size: 45px;
+}
