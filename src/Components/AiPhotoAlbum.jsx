@@ -38,7 +38,7 @@ const PhotoAlbum = () => {
     
     // Generate a signedURL for uploading the image to the S3 bucket. Invokes a Lambda Function in AWS
     const signedS3Put = await axios.get(
-      "https://dgtpgsb4ne.execute-api.us-east-1.amazonaws.com/dev/get-s3-upload-url?bucket=b2-hw3&key="+img.name+"&filetype="+img.type
+      "https://***.us-east-1.amazonaws.com/dev/get-s3-upload-url?bucket=***&key="+img.name+"&filetype="+img.type
     )
     
 
@@ -86,7 +86,7 @@ const PhotoAlbum = () => {
     try{
       // Make GET to API Gateway with searchTerm, returns an array of image URLs
       const res = axios.get(
-        "https://dgtpgsb4ne.execute-api.us-east-1.amazonaws.com/dev/search?q="+searchTerm,
+        "https://***.execute-api.us-east-1.amazonaws.com/dev/search?q="+searchTerm,
       ).then((res) => {
         var photoArray = []
         res.data.results.forEach(result => {
