@@ -1,5 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 # Live site: https://d10mck35okytrm.cloudfront.net/
 
 ### Created by:
@@ -23,3 +21,5 @@ aws-exports.json:
  }
 
 ```
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
