@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Simcha Coleman
 
 ### Missing /aws-exports.json for security:
-Contents of aws-exports.json:
+aws-exports.json:
 
 ```json
 {
